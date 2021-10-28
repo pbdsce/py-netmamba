@@ -35,3 +35,8 @@ The devices connected to the network respond back with their IP and MAC addresse
 |-|-|
 | -h (--help) | Displays the usage of NetMamba |
 | -t (--target) | Accepts the network IP in CIDR format to be scanned. |
+
+
+## Run Netscan.c
+   - Just run the code in any ide and it will automatically run ```arp -a ``` the command in cmd
+ 
